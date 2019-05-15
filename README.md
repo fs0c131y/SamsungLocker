@@ -1,6 +1,8 @@
 # Samsung ContainerAgent Vulnerability
 Due to an unprotected intent in the ContainerAgent app, a Samsung smartphone can become temporarily bricked. This vulnerability can be used to create a Locker.
 
+A write up has been published on Medium: https://medium.com/@fs0c131y/how-to-brick-all-samsung-phones-6aae4389bea?source=friends_link&sk=d044380dfde02c588fdab07d67720f2b
+
 # How To
 **Lock Secure folder**
 ```bash
